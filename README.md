@@ -1,8 +1,6 @@
-# Tasked Callendar app
+# Tasked Calendar
 
-Projekt inynierski moj wlasny
+Praca inżynierska
 ## Opis
 
-Aplikacja ktora działa jak Jira do personalnego planowania dnia
-
-### `Calendarz`
+Aplikacja do planowania zadań z widokiem kalendarza
